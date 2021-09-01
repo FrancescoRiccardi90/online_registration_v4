@@ -1,0 +1,28 @@
+
+* {
+    font-family: 'Merriweather', serif;
+   
+}
+
+input,
+select,
+textarea {
+    display: block;
+}
+
+header {
+    margin: 0 auto;
+}
+
+.header-top {
+    background: darkslategray;
+    width: 100vw;
+    padding-top: .7rem;
+    padding-bottom: .7rem;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    
+}
